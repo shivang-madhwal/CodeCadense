@@ -7,7 +7,7 @@ Created 23 October 2026. Phase estimates are planning ranges for one engineer, e
 **Outcome:** someone can complete a meaningful practice session without signing up.
 
 - [x] Responsive dashboard and navigation.
-- [x] 40 original DSA summaries covering hash maps, two pointers, sliding windows, stacks, binary search, linked lists, trees, graphs, backtracking, dynamic programming, and a combined intervals/heaps group (10 groups total).
+- [x] 40 original DSA summaries covering hash maps, two pointers, sliding windows, stacks, binary search, linked lists, trees, graphs, backtracking, dynamic programming, and a combined intervals/heaps group (11 groups total).
 - [x] Canonical question links, complexity notes, pattern cues, hidden solutions.
 - [x] Problem status, bookmarks, personal notes, search, and filters.
 - [x] Four-rating spaced review scheduling and due queue.

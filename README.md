@@ -4,7 +4,7 @@ An offline-first PWA for software engineering interview preparation. Learn a pat
 
 ## Available in v0.1
 
-- Original starter sheet of **40 problems across 10 patterns**, with direct links to LeetCode.
+- Original starter sheet of **40 problems across 11 patterns**, with direct links to LeetCode.
 - Concise approaches, time/space complexity, memory cues, and recall questions.
 - Search, difficulty/pattern/progress filters, bookmarks, notes, and explicit solve status.
 - Review queue with four self-assessment ratings and increasing review intervals.
