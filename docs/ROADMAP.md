@@ -15,7 +15,7 @@ Created 23 October 2026. Phase estimates are planning ranges for one engineer, e
 - [x] Device-local persistence, streaks, progress views, backup export/import.
 - [x] PWA manifest, installable icons, and offline app shell.
 - [x] Repository, feature commits, roadmap, tests, and release documentation.
-- [ ] Complete release checks and publish hosted v0.1 (see validation record).
+- [x] Complete initial release checks and publish hosted v0.1 (see validation record for beta gates).
 
 **Acceptance:** start from a clean browser; find and open a problem; reveal its solution; save notes; rate recall; reload and retain progress. After one online visit, app navigation and included lessons work offline. A backup can restore progress to another browser.
 

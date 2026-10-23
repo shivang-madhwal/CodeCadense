@@ -2,6 +2,10 @@
 
 An offline-first PWA for software engineering interview preparation. Learn a pattern, explain it from memory, and revisit it before you forget.
 
+[Open the deployed app](https://recall-interview-lab.chicbasil256.chatgpt.site) · [Public GitHub repository](https://github.com/shivang-madhwal/recall)
+
+The initial Sites deployment is owner-private. The source repository is public.
+
 ## Available in v0.1
 
 - Original starter sheet of **40 problems across 11 patterns**, with direct links to LeetCode.
