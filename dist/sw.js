@@ -1,4 +1,4 @@
-const CACHE = 'recall-shell-v1';
+const CACHE = 'recall-shell-v2';
 const BASE = new URL('./', self.location).href;
 const ASSETS = ['./','./index.html','./styles.css','./app.js','./core.js','./data.js','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png'].map(p=>new URL(p,BASE).href);
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)));});
